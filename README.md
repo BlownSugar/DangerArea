@@ -13,7 +13,7 @@ This project is a frontend clone of the 안심이 app, recreated using React Nat
    - The app offers safe routing options to help users reach their destination while avoiding dangerous areas.
 
 3. **Emergency Chatbot**:
-   - A chatbot feature provides advice and responses for emergency situations, including how to contact the police or an ambulance.
+   - A chatbot feature provides advice and responses for emergency situations, including direct contact to the the police or an ambulance without phone calling.
 
 4. **Social Worker Assistance**:
    - Users can find and contact nearby social workers who can guide them through potentially dangerous areas, offering additional safety, especially at night.
