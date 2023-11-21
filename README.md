@@ -36,10 +36,10 @@ The entire application logic is contained within `App.js`.
 
 ## Demonstration
 
-<img src="./assets/scoutShowcase.gif" width="300" height="700" alt="Scout Showcasing">
+<img src="./assets/scoutShowcase.gif" width="300" height="650" alt="Scout Showcasing">
 
 
-<img src="./assets/notificationShowcase.gif" width="300" height="700" alt="Notification Showcasing">
+<img src="./assets/notificationShowcase.gif" width="300" height="650" alt="Notification Showcasing">
 
 
 
