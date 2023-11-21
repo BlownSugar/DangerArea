@@ -2,7 +2,7 @@
 # 안심이 App Clone with Enhanced Features
 
 ## Overview
-This project is a frontend clone of the 안심이 app, recreated using React Native and Expo. It aims to replicate the original app's interface with several functional and design adjustments. The goal is to showcase new functionalities that enhance user safety and experience.
+This project is a frontend clone of the 서울시 안심이 app, recreated using React Native and Expo. It aims to replicate the original app's interface with several functional and design adjustments. The goal is to showcase new functionalities that enhance user safety and experience.
 
 ## Features
 1. **Dangerous Area Indication**:
@@ -21,8 +21,8 @@ This project is a frontend clone of the 안심이 app, recreated using React Nat
 ## Installation and Setup
 Clone the repository and install dependencies:
 ```bash
-git clone [your-repo-link]
-cd [your-project-folder]
+git clone https://github.com/BlownSugar/DangerArea/
+cd DangerArea
 npm install
 ```
 
@@ -36,12 +36,12 @@ The entire application logic is contained within `App.js`.
 
 ## Demonstration
 
-![Scout Showcasing](./assets/scoutShowcase.gif)
+<img src="./assets/scoutShowcase.gif" width="300" height="200" alt="Scout Showcasing">
 
 
-![Notification Showcasing](./assets/notificationShowcase.gif)
+<img src="./assets/notificationShowcase.gif" width="300" height="200" alt="Notification Showcasing">
 
 
 
 ## Acknowledgements
-This project is inspired by the original 안심이 app. All new functionalities are purely demonstrative and are designed for showcasing purposes.
+This project is inspired by the original 서울시 안심이 app. All new functionalities are purely demonstrative and are designed for showcasing purposes.
